@@ -1,6 +1,6 @@
 Application Tracking System (ATS)\
 
-LinkedIn Post Link:-https://www.linkedin.com/posts/om-lakshkar-a584472a8_ai-machinelearning-jobsearch-activity-7224403607050145795-yv11?utm_source=share&utm_medium=member_desktop
+LinkedIn Post Link:-https://www.linkedin.com/posts/sneha-agrawal-3247192b2_ai-innovation-jobsearchrevolution-activity-7224403770783285248-oils?utm_source=share&utm_medium=member_desktop
 
 This project is a Streamlit-based web application designed to evaluate and improve resumes based on a given job description. The system uses Google Generative AI to analyze resumes and provide feedback on job description matching, missing keywords, and profile summary.
 
